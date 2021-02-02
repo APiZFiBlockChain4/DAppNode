@@ -1,5 +1,5 @@
 # Contributing
-When bringing people on as contributors we prefer that they start with an issue tagged [good first issue](https://github.com/dappnode/DNP_BIND/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). After a contributor has shown they're a good fit and have completed 1 or 2 issues labeled [good first issue](https://github.com/dappnode/DNP_BIND/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) with pull requests that have been accepted feel free of moving on to other issues. We're thrilled to see new contributors. 
+When bringing people on as contributors we prefer that they start with an issue tagged [good first issue](https://github.com/dappnode/DNP_BIND/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22). After a contributor has shown they're a good fit and have completed 1 or 2 issues labeled [good first issue](https://github.com/dappnode/DNP_BIND/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22) with pull requests that have been accepted feel free of moving on to other issues. We're thrilled to see new contributors.
 
 If you want to better understand how does the development process works, please refer to our [wiki pages](https://github.com/dappnode/DAppNode/wiki)
 
@@ -28,7 +28,7 @@ In order to get the repositories setup before contributions refer to the [README
 
 5. *Add testing*
 
-    In general we aim for full test coverage. For this reason most issues completed should include full testing. If you think there should be an exception for your issue please reach out. 
+    In general we aim for full test coverage. For this reason most issues completed should include full testing. If you think there should be an exception for your issue please reach out.
 
 6. *Run previous tests*
 
@@ -44,11 +44,11 @@ In order to get the repositories setup before contributions refer to the [README
 
 9. *Make noise!*
 
-    Get in our [Riot](https://riot.im/app/#/room/#dappnode:matrix.org) and point to your new PR. Let us know you've tackled your first, third or 90th issue with us. We'll review it and everybody will get a warm feeling of accomplishment.
+    Get in our [Element](https://app.element.io/#/room/#DAppNode:matrix.org) and point to your new PR. Let us know you've tackled your first, third or 90th issue with us. We'll review it and everybody will get a warm feeling of accomplishment.
 
 10. *rinse, repeat*
 
     Find another issue, get more involved, make noise in our Riot, or find issues we may have missed. You've completed your first step to becoming a contributor. **You're helping to Decentralize the FUTURE**!
 
 
-If you still have any further questions about contribution feel free to reach out to `@eduadiez:matrix.org`,  `@yalormewn:matrix.org`, `@liondapp:matrix.org`, or just make noise in the `#DAppNode` channel on [Riot](https://riot.im/app/#/room/#DAppNode:matrix.org).
+If you still have any further questions about contribution feel free to reach out to `@eduadiez:matrix.org`,  `@yalormewn:matrix.org`, `@liondapp:matrix.org`, or just make noise in the `#DAppNode` channel on [Element](https://app.element.io/#/room/#DAppNode:matrix.org).
